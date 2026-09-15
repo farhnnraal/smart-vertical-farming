@@ -9,7 +9,6 @@ export const GROWTH_PHOTOS = {
   day7: "/day-7.webp",
   day14: "/day-14.webp",
   day21: "/day-21.webp",
-  banner: "/banner.webp",
 } as const;
 
 /** Foto rak vertikal 10 tingkat pada halaman Tanaman. */
