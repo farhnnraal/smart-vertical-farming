@@ -1,5 +1,4 @@
 import { GROWTH_PHOTOS } from '../assets/images';
-import 
 import { GrowthRecord, ParameterKey } from '../types';
 
 /** Catatan pertumbuhan awal (data simulasi untuk peragaan). */
